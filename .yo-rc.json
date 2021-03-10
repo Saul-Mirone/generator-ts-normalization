@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mirone",
+      "authorEmail": "Saul-Mirone@outlook.com",
+      "authorUrl": "https://saul-mirone.github.io"
+    }
+  }
+}

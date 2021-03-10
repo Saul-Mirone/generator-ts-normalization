@@ -1,0 +1,8 @@
+{
+    "extends": "@type-config/strict",
+    "compilerOptions": {
+        "baseUrl": "."
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "dist"]
+}

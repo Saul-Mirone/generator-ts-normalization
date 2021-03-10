@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency
+node_modules
+
+# OSX
+.DS_Store
+
+# Generated
+dist
+lib-cov
+coverage
+__snapshots__
+
+# Package.json
+packages.json
+.travis.yml
