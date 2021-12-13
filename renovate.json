@@ -3,9 +3,7 @@
     "config:base",
     ":preserveSemverRanges"
   ],
-  {
-    "lockFileMaintenance": {
-      "enabled": true
-    }
+  "lockFileMaintenance": {
+    "enabled": true
   }
 }
