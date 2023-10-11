@@ -31,13 +31,13 @@
     "prettier": "^3.0.0",
     "typescript": "5.2.2",
     "yeoman-assert": "^3.1.1",
-    "yeoman-test": "^7.0.0"
+    "yeoman-test": "^8.0.0"
   },
   "engines": {
     "npm": ">= 4.0.0"
   },
   "dependencies": {
-    "yeoman-generator": "^5.0.0",
+    "yeoman-generator": "^6.0.0",
     "chalk": "^5.0.0",
     "yosay": "^2.0.2"
   },
